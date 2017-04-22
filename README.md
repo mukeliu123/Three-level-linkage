@@ -6,7 +6,7 @@
 ## 主要用到的知识点：
 
 1，利用共享onload事件进行函数调用,这个知识点其实和这个项目没有任何关系，只是它是加载js文件过程中调用函数的一种最优方法（个人认为），
-如果想深入了解这个方法可以去我的博客查看 https://d-answer.github.io/2017/03/08/共享onload事件/。
+如果想深入了解这个方法可以去我的博客查看 https://d-answer.github.io/2017/03/08/共享onload事件
 
 2，利用js操作DOM
    (1)document.getElementById(id):根据id值取到相应对象元素。
