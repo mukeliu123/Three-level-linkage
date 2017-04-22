@@ -4,10 +4,10 @@
   但是我没有使用插件，而是自己用纯js写了一个，不借助任何第三方库。这个联动只精确到省和市，还有区（县）没写，但是原理一样，需要的
   朋友可以自己加。
   
-## 文件补录
+## 文件目录
 ---------------------------------------
 addCity.js   //主要操作文件，所有要用到的函数都封装在里面 <br>
-city.js  //参考地址：https://github.com/chenjinxinlove/js-code/blob/master/plugins/City-three.js<br>
+city.js  //省市文件，参考地址：https://github.com/chenjinxinlove/js-code/blob/master/plugins/City-three.js<br>
 index.html  //html页面
 
 -------------------------------------
