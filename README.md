@@ -6,13 +6,11 @@
   
 ## 文件补录
 
-------------------------
 addCity.js    //主要操作文件，所有要用到的函数都封装在里面
 city.js       //收集的全国所有省市文件，以数组的方式写在里面。参考地址：https://github.com/chenjinxinlove/js-code/blob/master/plugins/City-three.js
 index.html    //html页面
-------------------------
 
- 
+
 ## 主要用到的知识点：
 
 注：这都是写给和我一样的小白看的，大神略过。
