@@ -6,7 +6,7 @@
   
 ## 文件补录
 
-addCity.js    //主要操作文件，所有要用到的函数都封装在里面
+addCity.js    //主要操作文件，所有要用到的函数都封装在里面 <br>
 city.js       //收集的全国所有省市文件，以数组的方式写在里面。参考地址：https://github.com/chenjinxinlove/js-code/blob/master/plugins/City-three.js
 index.html    //html页面
 
